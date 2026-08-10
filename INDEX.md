@@ -15,6 +15,16 @@
 
 ---
 
+## docs/ — 文档与心得
+
+Hermes Agent 使用配置、工作流、技巧记录。
+
+| Skill | 说明 |
+|---|---|
+| [agent profile 的配置心得](docs/agent%20profile的配置心得.md) | Hermes Agent 使用中遇到的问题及处理方案 |
+
+---
+
 ## 其他分类（待扩充）
 
 | 分类目录 | 用途 | 当前条目 |
