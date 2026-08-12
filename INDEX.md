@@ -25,13 +25,22 @@ Hermes Agent 使用配置、工作流、技巧记录。
 
 ---
 
+## research/ — 研究搜索
+
+并行搜索技能，多平台同时检索后汇总。
+
+| Skill | 说明 | 依赖 |
+|---|---|---|
+| [skill-search-parallel](research/skill-search-parallel.md) | 并行搜索：同时从多个技能平台搜索，汇总去重后反馈 | `delegate_task` |
+
+---
+
 ## 其他分类（待扩充）
 
 | 分类目录 | 用途 | 当前条目 |
 |---|---|---|
 | `github/` | GitHub 操作（认证、PR、Issue、CI/CD） | 空 |
 | `development/` | 软件开发流程（TDD、调试、代码审查） | 空 |
-| `research/` | 研究搜索（arXiv、文献、博客监控） | 空 |
 | `productivity/` | 办公效率（文档、表格、邮件、日历） | 空 |
 | `creative/` | 创意设计（图表、音视频、生成） | 空 |
 | `media/` | 媒体处理（图片、视频、音频） | 空 |
