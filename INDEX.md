@@ -45,6 +45,17 @@ Hermes Agent 使用配置、工作流、技巧记录。
 
 ---
 
+## presentation/ — 演示文稿 / PPT 制作
+
+PPT 自动化制作技能包（ppt-master 总框架 + 国企风格子技能）。
+
+| Skill | 说明 | 依赖 |
+|---|---|---|
+| [ppt-master](presentation/ppt-master.md) | PPT 制作总框架：SVG→PPTX 流水线、批量生成工作流、模板管理 | python-pptx |
+| [state-owned-enterprise-ppt](presentation/state-owned-enterprise-ppt.md) | 国企风格 PPT 子技能：字体字号规范、页码编排、SVG 流水线备注 | ppt-master |
+
+---
+
 ## 其他分类（待扩充）
 
 | 分类目录 | 用途 | 当前条目 |

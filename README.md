@@ -10,6 +10,7 @@
 | [docs/](docs/) | 文档心得 | Hermes Agent 使用配置、工作流、技巧记录 | 1 |
 | [research/](research/) | 研究搜索 | 并行搜索技能，多平台同时检索后汇总 | 1 |
 | [creative/](creative/) | 创意设计 | 架构图/绘图技能（drawio-live） | 1 |
+| [presentation/](presentation/) | 演示文稿 | PPT 制作技能（ppt-master/国企PPT） | 2 |
 | 更多分类 | — | 待扩充（见 [INDEX.md](INDEX.md)） | 0 |
 
 ## 快速开始
