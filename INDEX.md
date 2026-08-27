@@ -35,6 +35,16 @@ Hermes Agent 使用配置、工作流、技巧记录。
 
 ---
 
+## creative/ — 创意设计
+
+架构图、图表、可视化等绘图与创意技能。
+
+| Skill | 说明 | 依赖 |
+|---|---|---|
+| [drawio-live](creative/drawio-live.md) | 在可见的 draw.io 画布上实时绘制/编辑架构图（零重叠连线、大字体、可保存 .drawio） | drawio-live MCP + draw.io 桌面版 |
+
+---
+
 ## 其他分类（待扩充）
 
 | 分类目录 | 用途 | 当前条目 |
@@ -42,7 +52,6 @@ Hermes Agent 使用配置、工作流、技巧记录。
 | `github/` | GitHub 操作（认证、PR、Issue、CI/CD） | 空 |
 | `development/` | 软件开发流程（TDD、调试、代码审查） | 空 |
 | `productivity/` | 办公效率（文档、表格、邮件、日历） | 空 |
-| `creative/` | 创意设计（图表、音视频、生成） | 空 |
 | `media/` | 媒体处理（图片、视频、音频） | 空 |
 | `mlops/` | 机器学习运维（训练、推理、评估） | 空 |
 | `monitoring/` | 巡检监控（告警、系统检查） | 空 |

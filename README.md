@@ -9,6 +9,7 @@
 | [browser/](browser/) | 浏览器控制 | 通过 browser-use CDP 控制 Chrome，实现自动化、抓取、截图、表单操作 | 2 |
 | [docs/](docs/) | 文档心得 | Hermes Agent 使用配置、工作流、技巧记录 | 1 |
 | [research/](research/) | 研究搜索 | 并行搜索技能，多平台同时检索后汇总 | 1 |
+| [creative/](creative/) | 创意设计 | 架构图/绘图技能（drawio-live） | 1 |
 | 更多分类 | — | 待扩充（见 [INDEX.md](INDEX.md)） | 0 |
 
 ## 快速开始
